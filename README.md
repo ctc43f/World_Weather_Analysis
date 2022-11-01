@@ -1,4 +1,5 @@
-# World_Weather_Analysis
+# World Weather Analysis
+## Module 6 Homework
 
 The analysis in this directory is related to the Module 6 challenge assignment.  Three items are:
 
